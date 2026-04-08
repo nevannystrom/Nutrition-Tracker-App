@@ -10,7 +10,7 @@ weight = st.number_input("Enter your weight (lbs):", min_value=1)
 height = st.number_input("Enter your height (inches):", min_value=1)
 age = st.number_input("Enter your age:", min_value=1)
 
-# Convert units (needed for BMR formula)
+# Convert units (needed for BMR)
 weight_kg = weight * 0.453592
 height_cm = height * 2.54
 
