@@ -4,13 +4,21 @@
 Nevan Nystrom
 
 ## App Description
-This app will allow users to track their daily calorie and protein intake by entering the foods they eat. It will also provide recommended daily calorie and protein goals based on the user’s height, weight, and gender to help them stay consistent with their health and fitness goals.
+This app allows users to estimate their daily calorie and protein needs based on personal information such as gender, weight, height, and age. It uses a BMR-based formula to provide more accurate calorie recommendations and helps users understand their daily nutrition goals.
 
-## Intended Users
-This app is intended for gym-goers, people trying to get in shape, and anyone interested in tracking their daily calorie and protein intake.
+## Current Features Implemented
+* Displays app title and description
+* Allows users to input gender, weight, height, and age
+* Calculates Basal Metabolic Rate (BMR)
+* Estimates daily calorie needs based on activity level
+* Calculates recommended daily protein intake
+* Displays results that update based on user input
 
-## Planned Features
-- Feature 1: Input food items with calories and protein values  
-- Feature 2: Calculate total daily calorie and protein intake
-- Feature 3: Calculate recommended nutrition goals based on user height, weight, and gender
+## Planned Features for Final Version
+* Allow users to input and track individual foods instead of only estimated goals
+* Track daily calorie and protein intake over multiple days
+* Display charts to visualize nutrition progress over time
+* Allow users to set specific goals (weight loss, maintenance, muscle gain)
+* Compare daily intake to recommended calorie and protein goals
+
 
